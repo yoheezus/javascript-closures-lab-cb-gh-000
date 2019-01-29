@@ -4,7 +4,7 @@ function  bumpCounter() {
     const bumps = 0
 
     function addBump() {
-
+        bumps += 1
     }
 
     function getBumps() {
