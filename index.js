@@ -25,7 +25,7 @@ function createAnimal(animalType) {
     }
 
     return {
-        attachWeapon
+        attachWeapon(deadlyDevice)
     }
 }
 
