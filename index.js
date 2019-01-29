@@ -32,4 +32,10 @@ function createAnimal(animalType) {
 
 function sharkCreator() {
     var sharkCreator = createAnimal("Shark");
+    return sharkCreator
+
+            break;
+        default:
+
+    }
 }
