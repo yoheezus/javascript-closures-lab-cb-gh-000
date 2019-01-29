@@ -29,3 +29,7 @@ function createAnimal(animalType) {
         attachWeapon
     }
 }
+
+function sharkCreator() {
+    var sharkCreator = createAnimal("Shark");
+}
