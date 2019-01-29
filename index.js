@@ -17,3 +17,10 @@ function  bumpCounter() {
     }
 
 }
+
+function createAnimal(animalType) {
+
+    function attachWeapon(deadlyDevice) {
+        return {"animalType": animalType, "deadlyDevice": deadlyDevice}
+    }
+}
