@@ -25,7 +25,6 @@ function createAnimal(animalType) {
     }
 
     return {
-        animalType,
         attachWeapon
     }
 }
