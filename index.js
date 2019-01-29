@@ -35,4 +35,3 @@ function sharkCreator() {
 		var sharkWithCannon = shark.attachWeapon("Cannon")
 		var sharkWithLaser = shark.attachWeapon("Laserbeam")
 }
-    
