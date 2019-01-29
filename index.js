@@ -1,10 +1,7 @@
 const app = "I don't do much."
 
-function  ThreePointTurn() {
-
-    function bumpCounter() {
-
-    }
+function  bumpCounter() {
+    const bumps = 0
 
     function addBump() {
 
