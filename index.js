@@ -34,3 +34,5 @@ function sharkCreator() {
     var sharkCreator = createAnimal("Shark");
     return sharkCreator
 }
+
+var sharkWithFrickinLaserbeam = sharkCreator()
