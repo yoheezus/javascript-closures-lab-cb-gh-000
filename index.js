@@ -1,7 +1,7 @@
 const app = "I don't do much."
 
 function  bumpCounter() {
-    const bumps = 0
+    var bumps = 0
 
     function addBump() {
         bumps += 1
