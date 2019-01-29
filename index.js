@@ -31,8 +31,8 @@ function createAnimal(animalType) {
 }
 
 function sharkCreator() {
-    var sharkCreator = createAnimal("Shark");
-    return sharkCreator
+    var shark = createAnimal("Shark")
+		var sharkWithCannon = shark.attachWeapon("Cannon")
+		var sharkWithLaser = shark.attachWeapon("Laserbeam")
 }
-
-var sharkWithFrickinLaserbeam = sharkCreator()
+    
