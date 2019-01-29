@@ -23,4 +23,9 @@ function createAnimal(animalType) {
     function attachWeapon(deadlyDevice) {
         return {"animalType": animalType, "deadlyDevice": deadlyDevice}
     }
+
+    return {
+        animalType,
+        attachWeapon
+    }
 }
