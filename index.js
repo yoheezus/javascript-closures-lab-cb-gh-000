@@ -8,7 +8,7 @@ function  bumpCounter() {
     }
 
     function getBumps() {
-
+        return bumps
     }
 
 }
